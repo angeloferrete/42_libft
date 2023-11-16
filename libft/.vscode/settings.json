@@ -1,0 +1,8 @@
+{
+	"C_Cpp.errorSquiggles": "disabled",
+	"files.associations": {
+		"stdlib.h": "c",
+		"stdio.h": "c",
+		"libft.h": "c"
+	}
+}
